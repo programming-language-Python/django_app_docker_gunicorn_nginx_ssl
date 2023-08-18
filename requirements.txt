@@ -1,0 +1,9 @@
+asgiref
+Django
+django-crispy-forms
+Pillow
+pytz
+sqlparse
+gunicorn
+psycopg2-binary
+django-environ
